@@ -16,48 +16,48 @@ The 2016 presidential election was one of the most contentious in recent history
 
 ### 1. Actual Election Results
 
-- Analyzed actual vote counts and percentages for Clinton, Trump, and Johnson.
-- Visualized the real results using bar plots.
+- Analysed actual vote counts and percentages for Clinton, Trump, and Johnson.
+- Visualised the real results using bar plots.
 
 ### 2. Opinion Poll Predictions
 
 - Examined opinion poll predictions for Clinton, Trump, and Johnson.
 - Compared raw poll data with adjusted data considering various factors.
-- Visualized poll predictions using bar plots.
+- Visualised poll predictions using bar plots.
 
 ### 3. Analysis by Poll Grade
 
 - Segmented poll predictions based on the grade assigned to each poll.
 - Compared predictions from high-grade (A) and low-grade (D) polls.
-- Visualized the comparison using bar plots.
+- Visualised the comparison using bar plots.
 
 ### 4. Geographical Analysis
 
-- Analyzed poll predictions based on the sample's geographical location.
+- Analysed poll predictions based on the sample's geographical location.
 - Investigated predictions for the entire USA, specific states (Wyoming, Washington D.C.), and regions.
-- Visualized regional poll predictions using bar plots.
+- Visualised regional poll predictions using bar plots.
 
 ### 5. Temporal Analysis
 
 - Segmented poll predictions based on time periods (before and during November).
-- Analyzed how predictions varied over time as the election approached.
-- Visualized temporal trends using bar plots and time series plots.
+- Analysed how predictions varied over time as the election approached.
+- Visualised temporal trends using bar plots and time series plots.
 
 ### 6. Sample Size Analysis
 
 - Investigated the effect of sample size on poll predictions.
 - Compared predictions from polls with sample sizes above and below a certain threshold.
-- Visualized sample size effects using box plots.
+- Visualised sample size effects using box plots.
 
 ### 7. Betting Markets Analysis
 
-- Analyzed betting odds for Trump's victory over time.
+- Analysed betting odds for Trump's victory over time.
 - Examined changes in betting markets' perceptions of Trump's chances throughout the campaign.
-- Visualized betting odds using time series plots.
+- Visualised betting odds using time series plots.
 
 ## Conclusion
 
-The analysis provides insights into the dynamics of the 2016 presidential election, highlighting the role of various factors in shaping public opinion and election outcomes. Understanding these factors is crucial for interpreting and contextualizing future election predictions.
+The analysis provides insights into the dynamics of the 2016 presidential election, highlighting the role of various factors in shaping public opinion and election outcomes. Understanding these factors is crucial for interpreting and contextualising future election predictions.
 
 ## Contributing
 
